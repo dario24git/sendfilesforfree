@@ -64,3 +64,9 @@ directory.
 On completion, it will delete the temp directory.
 
 All temp directories start with `.sendme-`.
+
+# To Do
+- [ ] Fix upload of directories in GUI mode
+- [ ] Enhance text and appearence 
+- [ ] Add correct attribution and license
+- [ ] Add more documentation
